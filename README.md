@@ -3,14 +3,11 @@
 <h1 align="center">Hi 👋, I'm Furkan Güler</h1>
 <h3 align="center">Software Engineering Student | Backend & Data Science Enthusiast | AI & Recommendation Systems</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulerfrknn&theme=dark" alt="GitHub Streak" />
-</p>
 
-### 🚀 Üzerinde Çalıştığım Şeyler
-- 🤖 **Kütüphaneci Furkan:** 600.000'den fazla kitaba sahip, RAG tabanlı yüksek ölçekli kütüphane chatbotu.
-- 📊 **Hibrit Öneri Sistemi:** Gelişmiş SKU eşleştirme ve yazar sadakati algoritmaları.
-- 🇬🇧 **İngilizce Hedefi:** Ağustos 2026'ya kadar B1 seviyesine ulaşma yolculuğu.
+
+###  Üzerinde Çalıştığım Şeyler
+-  **Kütüphaneci Furkan:** 600.000'den fazla kitaba sahip, RAG tabanlı yüksek ölçekli kütüphane chatbotu.
+-  **Hibrit Öneri Sistemi:** Gelişmiş SKU eşleştirme ve yazar sadakati algoritmaları.
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
@@ -22,7 +19,6 @@
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -32,10 +28,7 @@
 
 <br/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulerfrknn&show_icons=true&locale=en&layout=compact&theme=dark" alt="En Popüler Diller" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gulerfrknn&show_icons=true&locale=en&theme=dark" alt="GitHub İstatistikleri" />
-</p>
+
 
 <br/>
 
