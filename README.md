@@ -1,6 +1,6 @@
  [![MasterHead](https://i0.wp.com/www.ybsblog.com/wp-content/uploads/2020/07/programming-lang-scaled.jpeg?fit=2560%2C1167&ssl=1)
 <h1 align="center">Hi 👋, I'm Furkan Güler</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">Software Engineering Student | Backend & Data Science Enthusiast | AI & Recommendation Systems</h3>
 
 - 📫 How to reach me **glrrfrkn@gmail.com**
 
