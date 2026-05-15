@@ -6,7 +6,7 @@
 
 
 ###  Üzerinde Çalıştığım Şeyler
--  **Kütüphaneci Furkan:** 600.000'den fazla kitaba sahip, RAG tabanlı yüksek ölçekli kütüphane chatbotu.
+-  **CHATBOT:** 600.000'den fazla kitaba sahip, RAG tabanlı yüksek ölçekli kütüphane chatbotu.
 -  **Hibrit Öneri Sistemi:** Gelişmiş SKU eşleştirme ve yazar sadakati algoritmaları.
 
 <h3 align="left">Benimle iletişime geçin:</h3>
